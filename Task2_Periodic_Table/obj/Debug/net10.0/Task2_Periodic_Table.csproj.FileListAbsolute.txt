@@ -1,0 +1,15 @@
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\bin\Debug\net10.0\Task2_Periodic_Table.exe
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\bin\Debug\net10.0\Task2_Periodic_Table.deps.json
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\bin\Debug\net10.0\Task2_Periodic_Table.runtimeconfig.json
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\bin\Debug\net10.0\Task2_Periodic_Table.dll
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\bin\Debug\net10.0\Task2_Periodic_Table.pdb
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.AssemblyInfoInputs.cache
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.AssemblyInfo.cs
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.csproj.CoreCompileInputs.cache
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.sourcelink.json
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.dll
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\refint\Task2_Periodic_Table.dll
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.pdb
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\Task2_Periodic_Table.genruntimeconfig.cache
+D:\Advanced_Programming_Techniques_CA1\Task2_Periodic_Table\obj\Debug\net10.0\ref\Task2_Periodic_Table.dll
