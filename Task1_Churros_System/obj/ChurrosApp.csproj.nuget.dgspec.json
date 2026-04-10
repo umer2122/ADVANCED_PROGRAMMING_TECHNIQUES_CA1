@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj": {}
+    "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp.csproj": {}
   },
   "projects": {
-    "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj": {
+    "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj",
+        "projectUniqueName": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp.csproj",
         "projectName": "ChurrosApp",
-        "projectPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj",
+        "projectPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp.csproj",
         "packagesPath": "C:\\Users\\umer2\\.nuget\\packages\\",
-        "outputPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\obj\\",
+        "outputPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\umer2\\AppData\\Roaming\\NuGet\\NuGet.Config"

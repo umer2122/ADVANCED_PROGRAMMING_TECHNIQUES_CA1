@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2_Periodic_Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7001ab7cbf463a5856854f04dd3cf06b7992297c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31848a81334129882fd79b0e3866a347070dd71b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2_Periodic_Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2_Periodic_Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

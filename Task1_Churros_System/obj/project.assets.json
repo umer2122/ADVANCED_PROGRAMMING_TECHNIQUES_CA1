@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj",
-      "projectName": "ChurrosApp",
-      "projectPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\ChurrosApp.csproj",
+      "projectUniqueName": "D:\\20096793_Hafiz_Umar_Khan_CA1_Advanced_Programming\\Task1_Churros_System\\Task1_Churros_System.csproj",
+      "projectName": "Task1_Churros_System",
+      "projectPath": "D:\\20096793_Hafiz_Umar_Khan_CA1_Advanced_Programming\\Task1_Churros_System\\Task1_Churros_System.csproj",
       "packagesPath": "C:\\Users\\umer2\\.nuget\\packages\\",
-      "outputPath": "D:\\Advanced_Programming_Techniques_CA1\\Task1_Churros_System\\ChurrosApp\\obj\\",
+      "outputPath": "D:\\20096793_Hafiz_Umar_Khan_CA1_Advanced_Programming\\Task1_Churros_System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\umer2\\AppData\\Roaming\\NuGet\\NuGet.Config"

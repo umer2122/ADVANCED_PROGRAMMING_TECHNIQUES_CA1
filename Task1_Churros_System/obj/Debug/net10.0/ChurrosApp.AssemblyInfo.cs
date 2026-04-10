@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChurrosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7001ab7cbf463a5856854f04dd3cf06b7992297c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de54d1c8acf9708ef3f363a1c049682bac67218b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChurrosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChurrosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

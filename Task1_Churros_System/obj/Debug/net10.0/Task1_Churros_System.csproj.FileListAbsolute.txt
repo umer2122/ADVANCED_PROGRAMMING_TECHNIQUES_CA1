@@ -1,0 +1,15 @@
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\bin\Debug\net10.0\Task1_Churros_System.exe
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\bin\Debug\net10.0\Task1_Churros_System.deps.json
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\bin\Debug\net10.0\Task1_Churros_System.runtimeconfig.json
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\bin\Debug\net10.0\Task1_Churros_System.dll
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\bin\Debug\net10.0\Task1_Churros_System.pdb
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.AssemblyInfoInputs.cache
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.AssemblyInfo.cs
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.csproj.CoreCompileInputs.cache
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.sourcelink.json
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.dll
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\refint\Task1_Churros_System.dll
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.pdb
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\Task1_Churros_System.genruntimeconfig.cache
+D:\Advanced_Programming_Techniques_CA1\Task1_Churros_System\obj\Debug\net10.0\ref\Task1_Churros_System.dll
